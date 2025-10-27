@@ -26,5 +26,6 @@ Farming apps and softwares:
      *  Can be a website hub to buy crops for farming and yield
 
 ## Part B: possible future technology
-* Idea
-  * Detail
+ Agricultural hardware and devices.
+* The automation of tools and farm equiptment.
+ * [](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/newscms/2017_28/2070156/r4e005086_rrd.jpgv)
