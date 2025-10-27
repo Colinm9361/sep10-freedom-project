@@ -28,4 +28,6 @@ Farming apps and softwares:
 ## Part B: possible future technology
  Agricultural hardware and devices.
 * The automation of tools and farm equiptment.
- * [](https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_auto,q_auto:best/newscms/2017_28/2070156/r4e005086_rrd.jpgv)
+<img width="560" height="329" alt="image" src="https://github.com/user-attachments/assets/0eb5c416-0958-4145-9c0b-f21bf2850ca7" />
+* Though farming vehicles like tractors and lifts run on gas to work, within them contain electronics and machinery that hold software.
+ * 
