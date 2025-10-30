@@ -29,5 +29,22 @@ Farming apps and softwares:
  Agricultural hardware and devices.
 * The automation of tools and farm equiptment.
 <img width="560" height="329" alt="image" src="https://github.com/user-attachments/assets/0eb5c416-0958-4145-9c0b-f21bf2850ca7" />
+
 * Though farming vehicles like tractors and lifts run on gas to work, within them contain electronics and machinery that hold software.
- * 
+  * Hardware 1: Micro irrigation sensors.
+  * [5 Types of Industrial Equipment Used in the Grain/Agriculture Industry](https://ibtinc.com/types-industrial-equipment-agriculture-industry/)
+    * Made of rotors and sensors, they run across vast fields of crops to irrigate and keep them "fed" with water and neutrients.
+    * Sensors across the fields detect a plants moisture level, and when it thinks it's not getting enough water, it will be sprayed.
+    * This system, helps water any crops that require large amounts of land, and keep any pests and illness to the vegetation.
+    * The use of Micro irrigation systems also prevent bacteria to any other nearby plants.
+ *  Hardware 2: John Deere.
+ *  [These Technologies Are Changing Farms in Some Surprising Ways](https://www.nbcnews.com/mach/tech/these-technologies-are-changing-farms-some-surprising-ways-ncna780261)
+    *  With the additions to tablets and sensory devices on tractors and consoles to check on farms, the John Deere company is trying to make farming more optimised, and less physically labour intensive. Leaving the research to technology.
+    *  The John Deere manufacture company works on sensors and devices, but also works on code that analysies the quantity and quality of harvested crops for yield.
+    *  This technology will be used as better optimization and maximizing farming results.
+ *  Hardware 3：Biochar machine.
+ *  [13 Farm Equipment Names Every Farmer Should Know](https://www.wastex.io/post/13-farm-equipment-names-every-farmer-should-know)
+    *  A machine that creates soil amendment, which boosts soil fertility and water storage within the soil, provides better root development, and helps nutrients stay longer in the soil.
+    *  Made by heating waste from farms to extract their oxygen.
+    *  Able to be done by android devices, allows farmers to work on other projects whilst checking when to use this machine.
+    <img src="https://static.wixstatic.com/media/6e2303_9dd46768c4c84d029fe6a731cb453f02~mv2.webp/v1/fill/w_280,h_203,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/carbonizer%202_3%20transparent%20wbp.webp"/>
