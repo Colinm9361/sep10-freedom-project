@@ -25,8 +25,7 @@ Farming apps and softwares:
      *  Sources to find suppliers, the ability to sell farmers crops on the website, and inventory management.
      *  Can be a website hub to buy crops for farming and yield
 
-## Part B: possible future technology
- ### Agricultural hardware and devices:
+## Agricultural hardware and devices:
 * The automation of tools and farm equiptment.
 <img width="560" height="329" alt="image" src="https://github.com/user-attachments/assets/0eb5c416-0958-4145-9c0b-f21bf2850ca7" />
 
@@ -48,3 +47,5 @@ Farming apps and softwares:
     *  Made by heating waste from farms to extract their oxygen.
     *  Able to be done by android devices, allows farmers to work on other projects whilst checking when to use this machine.
     <img src="https://static.wixstatic.com/media/6e2303_9dd46768c4c84d029fe6a731cb453f02~mv2.webp/v1/fill/w_280,h_203,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/carbonizer%202_3%20transparent%20wbp.webp"/>
+
+    ## Part B: possible future technology
