@@ -2,8 +2,8 @@
 Topic: **Farming**
 
 ## Overview/Introduction/Context
-* I am researching technology in the farming industry. This will help me find pieces of information in my freedom project.
-* My freedom project will be this project I will condust throughout my school year about a specific topic and how technokogy influences it. 
+* The research being conducted is the searching for technology in the farming industry. This will help find pieces of information for  my freedom project.
+* My freedom project will be this project, where throughout my scool year, I will conduct various searches about a specific topic and how technology influences it. 
 
 ## Part A: existing technology
 Farming apps and softwares:
@@ -26,7 +26,7 @@ Farming apps and softwares:
      *  Can be a website hub to buy crops for farming and yield
 
 ## Part B: possible future technology
- Agricultural hardware and devices.
+ ### Agricultural hardware and devices:
 * The automation of tools and farm equiptment.
 <img width="560" height="329" alt="image" src="https://github.com/user-attachments/assets/0eb5c416-0958-4145-9c0b-f21bf2850ca7" />
 
