@@ -8,6 +8,7 @@ Topic: **Farming**
 ## Part A: existing technology
 Farming apps and softwares:
 * My first google search was, "softwares farmers use".
+      ![](https://cdn.prod.website-files.com/65ddf7b99a8b454b93dd2a82/66d08ecd2bb04a691bccdc5b_Local%20Line%20Blog%20(2).webp)
   * The website I found was, [Local line](https://www.localline.co/blog/best-software-for-farmers)
   * This website had a list of 15 softwares farmers use for their projects, and an overview of what they were used for.
 * App 1. Searched: [agrivi](https://www.agrivi.com/)
