@@ -42,7 +42,7 @@ Farming apps and softwares:
     *  With the additions to tablets and sensory devices on tractors and consoles to check on farms, the John Deere company is trying to make farming more optimised, and less physically labour intensive. Leaving the research to technology.
     *  The John Deere manufacture company works on sensors and devices, but also works on code that analysies the quantity and quality of harvested crops for yield.
     *  This technology will be used as better optimization and maximizing farming results.
- *  Hardware 3：Biochar machine.
+ *  Hardware 3: Biochar machine.
  *  [13 Farm Equipment Names Every Farmer Should Know](https://www.wastex.io/post/13-farm-equipment-names-every-farmer-should-know)
     *  A machine that creates soil amendment, which boosts soil fertility and water storage within the soil, provides better root development, and helps nutrients stay longer in the soil.
     *  Made by heating waste from farms to extract their oxygen.
