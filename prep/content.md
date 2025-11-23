@@ -49,4 +49,21 @@ Farming apps and softwares:
     *  Able to be done by android devices, allows farmers to work on other projects whilst checking when to use this machine.
     <img src="https://static.wixstatic.com/media/6e2303_9dd46768c4c84d029fe6a731cb453f02~mv2.webp/v1/fill/w_280,h_203,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/carbonizer%202_3%20transparent%20wbp.webp"/>
 
-    ## Part B: possible future technology
+## Part B: possible future technology
+*  Completely automated farms, with the growing of Ai, it could grow to do farm work for us.
+      *  Ai automated tractors that run on solar energy.
+      *  The use of Ai sensors to detect healthy plants.
+      *  Sensors to irrigate and water plants.
+      *  Potential Ai sorting systems of foods into specific places, like corn silos, large crates or facilities for foods. (Potatoes, carrots, lettuce, etc.)
+        ![](<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/622d9cdc-0333-4a30-b361-4f8bfeb469e2" />)
+*  With the changes and creation of robots, it could be possible to use them as farmers.
+      *  As people go into the farming business, in order to reduce harm and accidents.
+      *  It may be possible to in a way replace humans.
+      *  Reduces physical labour.
+*  Shields, preventing the toxic air and garbage from getting into farms.
+      *  A potential idea for future farms moving forward, is to have a clear dome over large rural farms, create a strong oxygen filled atmosphere, and possibly a healthier ecosystem then we have now. 
+      *  Have strong resistance to outside forces like pollutants and microplastics.
+*  Healthy non plastic grown, pesticideless and edible plants instead of our current way of growth.
+      *  Would increase American health and perhaps may even be better for people to eat.
+      *  Make foods healthier, both chemically, and for your digestive system.
+      
