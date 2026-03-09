@@ -1,7 +1,9 @@
 # Entry 4
-##### X/X/XX
+##### 3/9/26
 
-Text
+# Content
+### What I Chose To Tinker With
+  During my time in researching and testing 
 
 [Previous](entry03.md) | [Next](entry05.md)
 
