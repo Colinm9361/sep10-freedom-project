@@ -31,7 +31,8 @@
       
           </a-scene>
 ```
-
+### Moving on
+  From on out, I'm going to continue practicing Aframe, and using it to upload theorhetical machines for farming. Continuing to tinker with it. Building off what I know, tinkering on my own and fiddling with random code to make my Aframe nice. I will also perhaps use other codes and using codes from places as a backbone for certain objectives.
 
 
 [Previous](entry03.md) | [Next](entry05.md)
