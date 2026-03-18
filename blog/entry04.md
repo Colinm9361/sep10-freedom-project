@@ -31,6 +31,9 @@
       
           </a-scene>
 ```
+<img width="838" height="436" alt="Screenshot 2026-03-18 8 32 55 AM" src="https://github.com/user-attachments/assets/11d069dc-397f-409d-8df0-a319a64736a7" />
+
+
 ### Moving on
   From on out, I'm going to continue practicing Aframe, and using it to upload theorhetical machines for farming. Continuing to tinker with it. Building off what I know, tinkering on my own and fiddling with random code to make my Aframe nice. I will also perhaps use other codes and using codes from places as a backbone for certain objectives.
 
