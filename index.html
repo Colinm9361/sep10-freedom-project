@@ -9,21 +9,53 @@
         <link href="style.css" rel="stylesheet" type="text/css" />
         <style>
             /* CSS */
-            
+
         </style>
-        
+
         <title>Title</title>
     </head>
     <body>
         <!-- HTML -->
-        
-        
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+
         <!-- <script src="script.js"></script> -->
         <script>
             // JS
-            
-            
+
         </script>
     </body>
+</html>
+
+<html>
+  <head>
+    <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+  </head>
+  <body>
+    <a-scene>
+      <a-cone position="3 0 -10" color="#B22222" radius-bottom="2" radius-top="0.5"></a-cone>
+      <a-cylinder position="3 2.5 -10" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+      <a-cylinder position="3 1 -10" color="yellow"></a-cylinder>
+      <a-plane position="0 -0.5 -10" rotation="-90 0 0" width="10" height="10" color="#7BC8A4"></a-plane>
+      <a-icosahedron  position="3 4.5 -10" radius="2" width="3" height="3" color="black" radius="5"></a-icosahedron >
+        
+       <a-assets>
+  <img id="texture" src="texture.png">
+</a-assets>
+
+<!-- Basic ring. -->
+<a-ring position="0 1 -15" color="purple" radius-inner="3" radius-outer="5"></a-ring>
+
+<!-- Eye ring. -->
+  <a-ring position=".25 2.25 -10" height="12" src="#texture"></a-ring>
+  <a-box position=".25 2.30 -10" rotation="0 90 0" color="purple"></a-box>
+  <a-box position=".25 2.30 -10" rotation="0 45 0" color="black"></a-box>
+  <a-box position=".25 2.30 -10" rotation="0 65 0" color="#ADD8E6"></a-box>
+  <a-box position=".25 2.30 -10" rotation="0 25 0" color="#ADD8E6"></a-box>
+  <a-sphere position=".25 2.25 -11" radius="1.50" color="green"></a-sphere>
+
+
+    </a-scene>
+
+
+
+  </body>
 </html>
