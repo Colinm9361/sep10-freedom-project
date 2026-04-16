@@ -24,7 +24,19 @@
 
 ### D/M/Y 23/3/26
 * Today while coding, I learnt how to rotate and have a spinnig object. So i built the code, used from another stupids as inspiration to have a rotatitng shape in a constant loop.
+
+### 4/13/26
+* During the break and after completing the SHABR project, I learnt many things. One of such things was how Icons worked. Relooking at the possible extra credit of the SHABR project, I added a little house icon in replacement of my group's navbar "home".
+
+### 4/5/26
+* For the remainder of this week, I'm going to spend Wednesday, figuring out new shapes and tinkering with them like making a ring into a think 3D donut and not a 2D ring. Or perhaps rearranging shapes to create newer complex ones for my Aframe design.
+* Continue on from Wedesday, and after, Thursday I can begin creating the shape and overall design of my project, building the body and arms.
+* Friday continue what Thursday started. Recolor and edit design.
 ` <a-icosahedron  position="-3 4.5 -10"  animation="property: rotation; to: 0 0 90; loop: true; dur: 100" radius="2" width="3" height="3" color="black" radius="5"></a-icosahedron > `
+
+### 3/30/26
+* I started to tinker with my tool, and added more shapes, and testing sixes with depth, width, and height. Height being the Y axis, width, the X axis, and depth, the Z axis.Finally beginning an early design, and ideas how to create my creation.
+
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
