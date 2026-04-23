@@ -14,6 +14,7 @@
 
 ## Timeline
 
+#### TH (today): Work on AFRAME
 #### F: Work on Navbar and continue Aframe
 #### Weekend: Write Context and begin part A (MAYBE)
 #### M-F: Begin part A and Part B Created buttons, and arrange with bootstrap
