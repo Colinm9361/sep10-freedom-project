@@ -1,8 +1,8 @@
 # Plan
 
 ## Wireframes
-* [Mobile]()
-* [Desktop]()
+* [Mobile](https://wireframe.cc/aSvW0u)
+* [Desktop](https://wireframe.cc/oUorgG)
 
 ## Colors
   (Will be foudn as the project goes by.)
