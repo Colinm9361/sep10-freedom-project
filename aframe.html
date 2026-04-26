@@ -1,0 +1,64 @@
+<html>
+
+    <head>
+        <script src="https://aframe.io/releases/1.7.1/aframe.min.js"></script>
+    </head>
+
+    <body>
+        <a-scene>
+            <!-- Spinning thing (right). -->
+            <a-cone position="3 0 -10" color="#B22222" radius-bottom="2" radius-top="0.5"></a-cone>
+            <a-cylinder position="3 2.5 -10" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+            <a-cylinder position="3 1 -10" color="yellow"></a-cylinder>
+            <a-icosahedron position="3 4.5 -10" animation="property: rotation; to: 0 0 90; loop: true; dur: 100" radius="2" width="3" height="3" color="black" radius="5"></a-icosahedron>
+
+            <!-- Spinning thing (left). -->
+            <a-cone position="-3 0 -10" color="#B22222" radius-bottom="2" radius-top="0.5"></a-cone>
+            <a-cylinder position="-3 2.5 -10" radius="0.5" height="1.5" color="#FFC65D"></a-cylinder>
+            <a-cylinder position="-3 1 -10" color="yellow"></a-cylinder>
+            <a-icosahedron position="-3 4.5 -10" animation="property: rotation; to: 0 0 90; loop: true; dur: 100" radius="2" width="3" height="3" color="black" radius="5"></a-icosahedron>
+
+            <a-plane position="0 -0.5 -10" rotation="-90 0 0" width="50" height="50" color="#7BC8A4"></a-plane>
+
+            <a-assets>
+                <img id="texture" src="texture.png">
+            </a-assets>
+
+            <!-- Eye ball. -->
+            <a-ring position=".25 5.5 -13" height="12" src="#texture"></a-ring>
+            <a-box position=".25 5.5 -13" rotation="0 90 0" color="purple"></a-box>
+            <a-box position=".25 5.5 -13" rotation="0 45 0" color="black"></a-box>
+            <a-box position=".25 5.5 -13" rotation="0 65 0" color="#ADD8E6"></a-box>
+            <a-box position=".25 5.5 -13" rotation="0 25 0" color="#ADD8E6"></a-box>
+            <a-sphere position=".25 5.5 -14" radius="1.50" color="green"></a-sphere>
+
+            <!-- Body. -->
+            <a-box position=".25 4 -20" depth="10" height="5" width="7.5" color="#4CC3D9"></a-box>
+
+
+            <!--Rake. -->
+            <a-box color="tomato" depth="1" height=".1" width=".5"></a-box>
+            <a-box color="tomato" depth="1" height=".1" width=".5"></a-box>
+            <a-box color="tomato" depth="1" height=".1" width=".5"></a-box>
+            <a-box color="tomato" depth="1" height=".1" width=".5"></a-box>
+            <a-box color="tomato" depth="1" height=".1" width=".5"></a-box>
+            <a-box color="tomato" depth="1" height=".1" width=".5"></a-box>
+
+            <!--donut-->
+            <a-torus position=".250 5.5 -15" color="silver" arc="360" radius="3" radius-tubular="0.1" animation="property: rotation; to: 0 0 90; loop: true; dur: 100"></a-torus>
+
+            <!-- wheel right-->
+            <a-torus position="4.1 2.5 -17" color="black" arc="360" radius="3" radius-tubular="0.1" rotation="0, 90, 0"></a-torus>
+            <a-torus position="4.1 2.5 -24" color="black" arc="360" radius="3" radius-tubular="0.1" rotation="0, 90, 0"></a-torus>
+
+            <!-- wheel left-->
+            <a-torus position="-3.6 2.5 -17" color="black" arc="360" radius="3" radius-tubular="0.1" rotation="0, 90, 0"></a-torus>
+            <a-torus position="-3.6 2.5 -24" color="black" arc="360" radius="3" radius-tubular="0.1" rotation="0, 90, 0"></a-torus>
+
+        </a-scene>
+
+
+
+    </body>
+
+</html>

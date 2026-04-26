@@ -34,9 +34,12 @@
 * Friday continue what Thursday started. Recolor and edit design.
 ` <a-icosahedron  position="-3 4.5 -10"  animation="property: rotation; to: 0 0 90; loop: true; dur: 100" radius="2" width="3" height="3" color="black" radius="5"></a-icosahedron > `
 
-### 3/30/26
-* I started to tinker with my tool, and added more shapes, and testing sixes with depth, width, and height. Height being the Y axis, width, the X axis, and depth, the Z axis.Finally beginning an early design, and ideas how to create my creation.
+### 4/20/26
+* I started to tinker with my tool, and added more shapes, and testing sixes with depth, width, and height. Height being the Y axis, width, the X axis, and depth, the Z axis. Finally beginning an early design, and ideas how to create my creation. Also learnt CNTRL ALT I which made a 3D modeling sort of layout to rearrange my shapes, that I used to edit my code in IDE.
 
+### 4/24/26
+* Began plan.md and made two wireframes. From there, I'm starting to learn how media queries work.
+* Practiced CNTRL ALT I while practicing, and learnt how to make an entity, change its shape type, and add color to it.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc

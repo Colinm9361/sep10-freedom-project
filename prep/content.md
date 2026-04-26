@@ -1,9 +1,9 @@
 # Content
-Topic: **Farming**
+Topic: **Farming & Agriculture**
 
 ## Overview/Introduction/Context
 * The research being conducted is the searching for technology in the farming industry. This will help find pieces of information for  my freedom project.
-* My freedom project will be this project, where throughout my scool year, I will conduct various searches about a specific topic and how technology influences it. 
+* My freedom project will be this project, where throughout my scool year, I will conduct various searches about a specific topic and how technology influences it.
 
 ## Part A: existing technology
 Farming apps and softwares:
@@ -58,10 +58,10 @@ Farming apps and softwares:
 *  With the changes and creation of robots, it could be possible to use them as farmers.
       *  As people go into the farming business, in order to reduce harm and accidents.
       *  It may be possible to in a way replace humans.
-      *  Reduces physical labour.      
+      *  Reduces physical labour.
         <img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8f4b6156-4b6a-45e8-a947-7b347a72090e" />
 *  Shields, preventing the toxic air and garbage from getting into farms.
-      *  A potential idea for future farms moving forward, is to have a clear dome over large rural farms, create a strong oxygen filled atmosphere, and possibly a healthier ecosystem then we have now. 
+      *  A potential idea for future farms moving forward, is to have a clear dome over large rural farms, create a strong oxygen filled atmosphere, and possibly a healthier ecosystem then we have now.
       *  Have strong resistance to outside forces like pollutants and microplastics.
        <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/be211371-7e26-4555-9fc9-0f7e85587997" />
 *  Healthy non plastic grown, pesticideless and edible plants instead of our current way of growth.
