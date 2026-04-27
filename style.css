@@ -4,6 +4,10 @@
     display:block;
 }
 
+.btn{
+    margin: 0px 20px 0px 20px;
+}
+
 .Aframe{
     display: grid;
     place-items: center;
