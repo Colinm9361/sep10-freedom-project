@@ -35,5 +35,26 @@
 
 .h3context{
     font-size:20px;
-    font-family:Stack Sans Notch;
+    font-family:Roboto Slab;
+}
+
+.space{
+    margin:5px;
+    font-size:30px;
+}
+
+.h3ware{
+    font-size:18px;
+    font-family:Roboto Slab;
+}
+
+.biochar{
+    display: grid;
+    place-items: center;
+}
+
+.screen{
+    display: grid;
+    place-items: center;
+
 }
