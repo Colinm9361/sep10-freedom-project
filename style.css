@@ -58,3 +58,13 @@
     place-items: center;
 
 }
+
+.card-title{
+    color:black;
+}
+
+.card{
+    font-size:15px;
+    background-color:grey;
+    color:white;
+}
