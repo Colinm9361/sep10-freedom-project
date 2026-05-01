@@ -25,9 +25,9 @@
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
                     <img src="logo.png" alt="Logo" width="100" height="50" class="d-inline-block align-text-center">
-                    <button class="btn btn-outline-success me-2" href="htmlcode.md" type="button">HTML code</button>
-                    <button class="btn btn-outline-success " href="csscode.md" type="button">CSS code</button>
-                    <button class="btn btn-outline-success" href="Aframecode.md" type="button">Aframe code</button>
+                    <button class="btn btn-outline-success me-2" href="tool/htmlcode.md" type="button">HTML code</button>
+                    <button class="btn btn-outline-success " href="tool/csscode.md" type="button">CSS code</button>
+                    <button class="btn btn-outline-success" href="tool/Aframecode.md" type="button">Aframe code</button>
                 </a>
             </div>
         </nav>
@@ -167,4 +167,5 @@
     </body>
 
 </html>
+
 
