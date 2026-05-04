@@ -1,7 +1,9 @@
 # Entry 6
-##### X/X/XX
+##### 5/4/26
 
-Text
+# Context:
+
+## Tool
 
 [Previous](entry05.md) | [Next](entry07.md)
 
