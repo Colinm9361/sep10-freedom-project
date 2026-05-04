@@ -42,7 +42,7 @@
 * Practiced CNTRL ALT I while practicing, and learnt how to make an entity, change its shape type, and add color to it.
 
 ### 5/1/26
-* Throughout the week, I learnt how to rearrange certain elements to allign on my freedom project, and learnt how to make buttons work to preview code. Creating a seperate (name).md, pasting the code I wanted, and putting that in the Href link.
+* Throughout the week, I learnt how to rearrange certain elements to align on my freedom project, and learnt how to make buttons work to preview code. Creating a seperate (name).md, pasting the code I wanted, and putting that in the Href link.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
