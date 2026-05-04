@@ -9,7 +9,7 @@ body{
 }
 
 .btn{
-    margin: 0px 20px 0px 20px;
+    margin-right: 300px;
 }
 
 .Aframe{

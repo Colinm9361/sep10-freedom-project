@@ -9,7 +9,7 @@ body{
 }
 
 .btn{
-    margin: 0px 20px 0px 20px;
+    margin-right: 300px;
 }
 
 .Aframe{
@@ -50,13 +50,6 @@ body{
 .h3ware{
     font-size:18px;
     font-family:Roboto Slab;
-}
-
-.biochar{
-    display: grid;
-    place-items: center;
-    background: linear-gradient( grey, white, grey);
-    border:black 10px;
 }
 
 .screen{
