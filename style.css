@@ -80,4 +80,7 @@ body{
 
 iframe{
     border: 5px solid black;
+    display: grid;
+    place-items: center;
+    background: linear-gradient( grey, white, grey);
 }
