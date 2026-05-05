@@ -9,7 +9,7 @@ body{
 }
 
 .btn{
-    margin-right: 300px;
+    margin-right: 250px;
 }
 
 .Aframe{
@@ -70,8 +70,14 @@ body{
     font-family:Roboto Slab;
 }
 
-.Aframe1{
+.aframing{
     text-decoration: underline;
     font-family:Bungee;
+    margin: 50px 20px 50px 20px;
     border-style: double;
+    border-width: 5px;
+}
+
+iframe{
+    border: 5px solid black;
 }
