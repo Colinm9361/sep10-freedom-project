@@ -32,16 +32,14 @@
 
 
 
-<!-- DO NOT USE THIS YET
 
-#### Peer Feedback 
+#### Peer Feedback
 
 | Name | Glows | Grows |
 | -------- | ------- | ------- |
-|  |  |  |
+| Angel |  I like how organized your website looks|  Have you thought about adding a border to your aframe preview and maybe making it smaller, I think it'd look cool that way. Also the links for the code don't seem to work, maybe you could fix those.|
 |  |  |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 
--->
