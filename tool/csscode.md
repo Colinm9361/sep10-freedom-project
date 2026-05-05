@@ -9,7 +9,7 @@ body{
 }
 
 .btn{
-    margin-right: 300px;
+    margin-right: 250px;
 }
 
 .Aframe{
@@ -52,13 +52,6 @@ body{
     font-family:Roboto Slab;
 }
 
-.biochar{
-    display: grid;
-    place-items: center;
-    background: linear-gradient( grey, white, grey);
-    border:black 10px;
-}
-
 .screen{
     display: grid;
     place-items: center;
@@ -77,8 +70,17 @@ body{
     font-family:Roboto Slab;
 }
 
-.Aframe1{
+.aframing{
     text-decoration: underline;
     font-family:Bungee;
+    margin: 50px 20px 50px 20px;
     border-style: double;
+    border-width: 5px;
+}
+
+iframe{
+    border: 5px solid black;
+    display: grid;
+    place-items: center;
+    background: linear-gradient( grey, white, grey);
 }

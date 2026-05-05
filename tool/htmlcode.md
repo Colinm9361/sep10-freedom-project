@@ -25,9 +25,9 @@
             <div class="container-fluid">
                 <a class="navbar-brand" href="#">
                     <img src="logo.png" alt="Logo" width="100" height="50" class="d-inline-block align-text-center">
-                    <a type="button" class="btn btn-outline-success"  href="../tool/htmlcode.md" >HTML code</a>
-                    <a type="button" class="btn btn-outline-success" href="../tool/csscode.md" >CSS code</a>
-                    <a type="button" class="btn btn-outline-success" href="../tool/Aframecode.md" >Aframe code</a>
+                    <a type="button" class="btn btn-outline-success"  href="tool/htmlcode.md" >HTML code</a>
+                    <a type="button" class="btn btn-outline-success" href="tool/csscode.md" >CSS code</a>
+                    <a type="button" class="btn btn-outline-success" href="tool/Aframecode.md" >Aframe code</a>
                 </a>
             </div>
         </nav>
@@ -110,9 +110,9 @@
                         <li> Able to be done by android devices, allows farmers to work on other projects whilst checking when to use this machine.</li></h3>
                     </ul>
 
-                    <div class=" biochar col-sm-4 col-md-6"><img src="https://camo.githubusercontent.com/0bb79d7671f5c7f3eeea24ee4c5ef5c9db5e24947c1a74d99d4ba3032c6567ec/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3665323330335f39646434363736386334633834643032396665366137333163623435336630327e6d76322e776562702f76312f66696c6c2f775f3238302c685f3230332c616c5f632c715f38302c75736d5f302e36365f312e30305f302e30312c656e635f617669662c7175616c6974795f6175746f2f636172626f6e697a6572253230325f332532307472616e73706172656e742532307762702e77656270" width="550" height="700"></div>
+                    <div class=" biochar col-sm-4 col-md-6"><img src="https://camo.githubusercontent.com/0bb79d7671f5c7f3eeea24ee4c5ef5c9db5e24947c1a74d99d4ba3032c6567ec/68747470733a2f2f7374617469632e7769787374617469632e636f6d2f6d656469612f3665323330335f39646434363736386334633834643032396665366137333163623435336630327e6d76322e776562702f76312f66696c6c2f775f3238302c685f3230332c616c5f632c715f38302c75736d5f302e36365f312e30305f302e30312c656e635f617669662c7175616c6974795f6175746f2f636172626f6e697a6572253230325f332532307472616e73706172656e742532307762702e77656270" width="250" height="700"></div>
 
-                    <div class=" screen col-sm-4 col-md-12"><img src="../img/screen.png" width="500" height="500"></div>
+                    <div class=" screen col-sm-4 col-md-12"><img src="img/screen.png" width="550" height="500"></div>
 
                 </div>
             </div>
@@ -124,7 +124,7 @@
         <div class="container-fluid">
             <div class="row">
                 <div class="card col-sm-6 col-md-3">
-                <img src="../img/image copy.png" class="card-img-top" alt="...">
+                <img src="img/image copy.png" class="card-img-top" alt="...">
                 <div class="card-body">
                     <h5 class="card-title">Robot</h5>
                     <p class="card-text">As people go into the farming business, in order to reduce harm and accidents, robots may be possible to in a way replace humans. Reduces physical labour.</p>
@@ -132,7 +132,7 @@
                 </div>
 
                 <div class="card col-sm-6 col-md-3">
-                <img src="../img/image copy 2.png" class="card-img-top" alt="...">
+                <img src="img/image copy 2.png" class="card-img-top" alt="...">
                 <div class="card-body ">
                     <h5 class="card-title">Shield</h5>
                     <p class="card-text">A potential idea for future farms moving forward, is to have a clear dome over large rural farms. It'll create a strong oxygen filled atmosphere, and possibly a healthier ecosystem then we have now within farms. Have strong resistance to outside forces like pollutants and microplastics.</p>
@@ -140,7 +140,7 @@
                 </div>
 
                 <div class="card col-sm-6 col-md-3">
-                <img src="../img/image.png" class="card-img-top" alt="...">
+                <img src="img/image.png" class="card-img-top" alt="...">
                 <div class="card-body ">
                     <h5 class="card-title">Automated Farms</h5>
                     <p class="card-text">Completely automated farms, with the growing of Ai, it could advance to do farm work for us. Ai automated tractors that run on solar energy, using sensors to detect healthy plants, Sensors to irrigate and water plants. Potential Ai sorting systems of foods into specific places, like corn silos, large crates or facilities for foods. (Potatoes, carrots, lettuce, etc.) </p>
@@ -160,7 +160,7 @@
         <script>
             // JS
         </script>
-        <div class="text-center Aframe1">
+        <div class="text-center aframing">
         <h1>Aframe</h1>
         </div>
         <iframe src="aframe.html" class="Aframe text-center"></iframe>
