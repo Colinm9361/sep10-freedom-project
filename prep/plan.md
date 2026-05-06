@@ -20,12 +20,12 @@
 #### M-F: Begin part A and Part B Created buttons, and arrange with bootstrap
 
 ## Beyond MVP
-
-* Put colors
-* Fonts
-* CSS borders, gradients
-* Fix backgroud
-* Fix any issues previously couldn't
+      1-5 most to least important
+- [x] Put colors (4)
+- [x] Fonts (3)
+- [x] CSS borders, gradients (2)
+- [x] Fix backgroud (5)
+- [x] Fix any issues previously couldn't (1)
 
 
 

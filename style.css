@@ -37,6 +37,14 @@ body{
     font-family:Bungee;
 }
 
+.softcard{
+    padding:10px;
+    font-size:15px;
+    background-color:grey;
+    color:white;
+    font-family:Roboto Slab;
+}
+
 .h3context{
     font-size:20px;
     font-family:Roboto Slab;
@@ -55,7 +63,13 @@ body{
 .screen{
     display: grid;
     place-items: center;
-    background: linear-gradient( grey, white, grey);
+
+}
+
+.biochar{
+    display: grid;
+    place-items: center;
+    background: linear-gradient( black, lightgreen, black);
 
 }
 
@@ -83,4 +97,15 @@ iframe{
     display: grid;
     place-items: center;
     background: linear-gradient( grey, white, grey);
+}
+
+.ll{
+    padding:20px;
+    display: grid;
+    place-items: center;
+}
+
+.lll{
+    border: 3px solid lightblue;
+
 }
