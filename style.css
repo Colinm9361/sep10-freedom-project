@@ -8,8 +8,13 @@ body{
     display:block;
 }
 
+#mynav{
+    justify-content: normal;
+}
+
 .btn{
-    margin-right: 250px;
+    margin-right:30px;
+    font-size:20px;
 }
 
 .Aframe{
@@ -35,6 +40,7 @@ body{
     text-decoration: underline;
     border-style: solid;
     font-family:Bungee;
+    background: linear-gradient(green, lightgreen, green);
 }
 
 .softcard{
@@ -108,4 +114,8 @@ iframe{
 .lll{
     border: 3px solid lightblue;
 
+}
+
+.des{
+    color:lightgreen;
 }
