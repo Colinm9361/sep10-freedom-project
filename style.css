@@ -30,10 +30,13 @@ body{
 .title{
     text-decoration: underline;
     font-family:Bungee;
-    margin: 100px 20px 100px 20px;
     border-style: double;
-    border-width: 5px;
-
+    width:100%;
+    display: grid;
+    place-items: center;
+    display:block;
+    border-width:5px;
+    margin:20px 0px 20px 0px;
 }
 
 .context{
@@ -93,9 +96,12 @@ body{
 .aframing{
     text-decoration: underline;
     font-family:Bungee;
-    margin: 50px 20px 50px 20px;
     border-style: double;
-    border-width: 5px;
+    display: grid;
+    place-items: center;
+    display:block;
+    border-width:5px;
+    margin:20px 000px 20px 00px;
 }
 
 iframe{
