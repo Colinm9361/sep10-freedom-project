@@ -43,6 +43,9 @@
 
 ### 5/1/26
 * Throughout the week, I learnt how to rearrange certain elements to align on my freedom project, and learnt how to make buttons work to preview code. Creating a seperate (name).md, pasting the code I wanted, and putting that in the Href link.
+
+### 5/10/36
+* Throughout my time working on my MVP, I made some changes, and found that within bootstraps classes, their code may cause issues, that I can override with css, and coding freely with bootstraps layout.
 <!--
 * Links you used today (websites, videos, etc)
 * Things you tried, progress you made, etc
