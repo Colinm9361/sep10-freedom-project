@@ -1,11 +1,12 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I will ask a question about what do people knoow about farming. What do they think modern farming looks like.
 
 ## Product
-* 
-
+* Show the preview of the website, a link to it, and brief description on what it's about.
+* Demonstrate my Aframe image and explain what it is.
+  
 ## Process
 * 
 
