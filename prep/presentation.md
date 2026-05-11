@@ -5,14 +5,18 @@
 
 ## Product
 * Show the preview of the website, a link to it, and brief description on what it's about.
-* Demonstrate my Aframe image and explain what it is.
+* demonstrate my Aframe preview and explain what it is.
+* Explain how it relates to my project.
   
 ## Process
-* 
+* Show my wireframe, some code behind HTML, and Aframe, and explain how and what I did.
+* Showcase blogs and planning sheets to explain how I arrive to where I am. Show 
 
 ## Conclusion
-* 
-
+*  Summarise what my project is one last time.
+*  say how presenting will help me in the future
+*  say thank you and ask for questions.
+ 
 <!-- EXAMPLE
 
 ## Hook
