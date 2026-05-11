@@ -16,6 +16,7 @@
 *  Summarise what my project is one last time.
 *  say how presenting will help me in the future
 *  say thank you and ask for questions.
+*  And provide a link (tiny.cc)to both my preview, and slides if people want to note my presentation, and look for whatever they missed.
  
 <!-- EXAMPLE
 
