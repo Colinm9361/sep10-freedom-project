@@ -1,17 +1,23 @@
 # Presentation Plan
 
 ## Hook
-* 
+* I will ask a yes or no question about if they know what a biochar machine is, and whether they think farmers use apps and technology.
 
 ## Product
-* 
-
+* Show the preview of the website, a link to it, and brief description on what it's about.
+* demonstrate my Aframe preview and explain what it is.
+* Explain how it relates to my project.
+  
 ## Process
-* 
+* Show my wireframe, some code behind HTML, and Aframe, and explain how and what I did. My HTML (and CSS) to how I was able to align some of the titles and cards. And my Aframe machine, and how I organised everything into chunks.
+* Showcase blogs and planning sheets to explain how I arrive to where I am.  
 
 ## Conclusion
-* 
-
+*  Summarise what my project is one last time.
+*  say how presenting will help me in the future
+*  say thank you and ask for questions.
+*  And provide a link (tiny.cc)to both my preview, and slides if people want to note my presentation, and look for whatever they missed.
+ 
 <!-- EXAMPLE
 
 ## Hook
