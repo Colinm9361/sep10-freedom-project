@@ -12,7 +12,7 @@ The tool I used for my freedom project was the HTML code, Aframe. A 3D modeling 
 ## In Class Presentation
 Upon completing my project on agriculture, Every student went one by one to present their projects in class where they would teach students briefly on the topic, the tool they used to justify means, and throughout the presentations, I was one of them. Some takeaways from the in class presentation I got was to be formal, make a lot of eye contact, make sure I have everything in place, and be active/entertaining with your crowd. I had a lot of fun with it, and really enjoyed sharing my topic on agriculture.
 
-[Slides](https://docs.google.com/presentation/d/1LzcmvrWL_e63xZY-kVT_IjnLQiKZSwlWidQe3tk1myU/edit?slide=id.g3e23836bf35_5_0#slide=id.g3e23836bf35_5_0)
+[Slides](https://docs.google.com/presentation/d/1LzcmvrWL_e63xZY-kVT_IjnLQiKZSwlWidQe3tk1myU/edit?slide=id.p#slide=id.p)
 
 ## Convention
 After the in class presentation, a couple of days later we had to present our projects to juniors and seniors where I presented my project with an elevator pitch. From there I didn't particularly learn much from the in class presentation except, get to the point, and focus on the more important points. With this help, I had a lot of fun and enjoyed the convention where I talked and saw other students projects too, where we discussed how it went. 
